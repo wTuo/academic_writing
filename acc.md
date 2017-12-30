@@ -21,7 +21,12 @@ As a result
 
 As stated/noted  previously/earlier
 
-strictly speaking
+strictly/roughly/abstractly speaking
+
+through/by
+
+To this aim, ... 
+
 
 ## amazing adverb
 directly
@@ -35,6 +40,22 @@ similarly
 exactly(solving the problem exactly may lead to a prohibitively large cost) 
 
 subsequently
+
+sequentially
+
+efficiently
+
+independently
+
+**naturally**
+
+surprisingly/interestingly  
+
+**Consequently** 
+
+iteratively
+
+quietly
 
 ## verb
 divide into ... 
@@ -51,25 +72,39 @@ characterize
 
 put forward 
 
-guarantee
+guarantee (provide approximation guarantee)
 
 pursue (driven by the necessity of pursuing an exact algorithm)
 
 extract
 
-**designated ()**
+**designated as**
 
 **imply** 
 
 justify (may be a substitution for explain, present, demonstrate, prove)
 
-demonstrate (when to use: a slighter feeling than prove , e.g. demonstrate the hardness of the problem)
+**demonstrate** (when to use: a slighter feeling than prove , e.g. demonstrate the hardness of the problem)
 
 involve
 
 **employ (substitution for adopt)**(e.g. we employ three terms)  
 
-**turn out to** be ... (the independence of the edge occurrence turn out to give ER graph a great advantage)(the worst case of approximation ratio still turn out to be O(|E|)) 
+exploit/is exploited to ... (a stronger feeling than adopt,employ)
+
+**turn out to be(to express an unexpected feeling)** (the independence of the edge occurrence turn out to give ER graph a great advantage)(the worst case of approximation ratio still turn out to be O(|E|))(we find that the problem turns out to be far more complicated) 
+
+occur (with)
+
+intuitive
+
+achieve
+
+**remain** (even assuming that ..., the problem remains NP-hard)
+
+**render** 
+
+[resort to](http://www.iciba.com/resort) 
 
 ## non
 
@@ -77,8 +112,19 @@ heuristics
 
 guarantee (with linear approximate guarantee)
 
-**nature**
+**nature**(the nature of the problem)
 
+scheme
+
+occurrence
+
+argument
+
+goal/objective
+
+notion
+
+idea (we usually use 'idea' to express 一个算法的主要思想(the main idea behind the algorithm), rather than  thoughts)
 ## amazing phrase 
 
 As naive it is,
@@ -99,18 +145,31 @@ formulate ... to ...
 
 label ... as ...
 
-- denote ... as/by $x$ (... is denoted as $x$)
+- denote ... as/by $x$ (... is denoted as/by $x$)
+- ,where $x$ denotes ... 
+- ...(,) denoted by ...,
+- Denote by $s\cdot e$ the state evolved from s by setting s_e as 1. (still remain unclear for the strange structure 祈使句可以省略主语?)
 - represented as $x$ 
 - use $x$ to represent ...
 
 Set ... as 0/ Set $A=B$
-assign ... ... (without prep.)
 
+assign ... ... (without prep.)/ ... is assigned ...
+
+for $s$, we define it to be a non-terminating state if ...
+
+is given by
+
+is subject to 
+
+is commonly used to ... (the probabilistic graph model is commonly used to ...)
 # common adjective
 
 **inherent** (refer to a feeling that something can not be cast off)
 
+intrinsic (Due to the intrinsic hardness)(it is hard to distinguish between intrinsic and inherent even for natives)
 
+non-trivial (The antonym nontrivial is commonly used by engineers and mathematicians to indicate a statement or theorem that is not obvious or easy to prove.)
 
 
 # sentence paradigm
@@ -118,7 +177,7 @@ has been under intensive study for long/has long been a topic of intensively stu
 
 thus yielding high..., while maintaining low run-time.
 
-It is assumed that ...
+It is assumed that .../Assuming that ...
 
 is not applicable/suitable for ....
 
@@ -145,4 +204,47 @@ there has also been research interest in ...
 
 function that assigns each ... ... (without prep.)/maps ... to ...
 
-An explanation to this is ...
+An explanation to this is .../ This can be easily explained as
+
+There has also been much work motivated by ...
+
+From ..., it follows that ...
+
+The [soundness](http://dict.youdao.com/w/soundness_) of the above three arguments is supported in Appendix.
+
+To **further** ...
+
+, which has close connection with our problem/closely related
+
+The intuitive explanation for ...
+
+construct the function by ...
+
+**As demonstrated in Figure ...**
+
+**We aimed to**(our goal)(..., aiming at/to ...)
+
+**We proceed by** (we proceed by converting our problem to an MDP)
+
+**... render it +adj.(substitution for make)**  (the prohibitive time complexity renders it unsuitable for ... )
+
+
+all ..have been modeled without taking into account ... In this paper we overcome this limitation and introduce ...
+
+This problem (naturally) arises in many real-world scenarios.
+
+... (easily) follows from ...
+
+The main intuition behind our method directly follows from ...
+
+**However, such a ...**
+
+This can be accomplished by BFS in O(k(n+m)) time, **k being the number of samples.** (another way to give a style of Adverbial  )
+
+## long sentence
+
+Due to the ..., ... should be interpreted in a probabilistic way, thus naturally leading to ...
+
+Although ..., the focus nowadays, due to the large size of the networks, has mainly been on approximate solutions.
+
+However, such a pre-computation would lead to an increase of the index storage space and, more importantly, the index building time, which would become O(nm), thus unaffordable for large graphs.
