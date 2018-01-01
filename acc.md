@@ -28,7 +28,15 @@ through/by
 To this aim, ... 
 
 
+
 ## amazing adverb
+
+There are two common types of how an adverb is inserted into a long sentence.
+1. ..., interestingly, .... | ..., more importantly, ... 
+2. ..., typically, ... | ..., particularly, ... | ..., specifically, ... (typically,particularly can also be placed in this way: ..., ... particularly )
+
+
+
 directly
 
 formally
@@ -86,6 +94,8 @@ justify (may be a substitution for explain, present, demonstrate, prove)
 
 **demonstrate** (when to use: a slighter feeling than prove , e.g. demonstrate the hardness of the problem)
 
+**examine** (substitution for investigate, look into) 
+
 involve
 
 **employ (substitution for adopt)**(e.g. we employ three terms)  
@@ -106,7 +116,13 @@ achieve
 
 [resort to](http://www.iciba.com/resort) 
 
-## non
+**measure**  (give a exact value of something, e.g. problems in this class are asked to measure the probability of ...)
+
+concern (It concerns crucial issues)
+
+
+**rise** (Uncertainty may arise due to ...) 
+## noun
 
 heuristics 
 
@@ -125,6 +141,9 @@ goal/objective
 notion
 
 idea (we usually use 'idea' to express 一个算法的主要思想(the main idea behind the algorithm), rather than  thoughts)
+
+issue 
+
 ## amazing phrase 
 
 As naive it is,
@@ -154,6 +173,8 @@ label ... as ...
 
 Set ... as 0/ Set $A=B$
 
+Let $x$ be ...
+
 assign ... ... (without prep.)/ ... is assigned ...
 
 for $s$, we define it to be a non-terminating state if ...
@@ -163,6 +184,10 @@ is given by
 is subject to 
 
 is commonly used to ... (the probabilistic graph model is commonly used to ...)
+
+**in the context of ... (substitution for from a perspective of ...)**
+
+
 # common adjective
 
 **inherent** (refer to a feeling that something can not be cast off)
@@ -191,7 +216,7 @@ Despite of this similarity, the problem are quiet different.
 
 **In contrast, our focus here lies in ... (Don't always use "Instead of ..." to express difference in RELATED WORK)**
 
-Adopting the notations in [], (**this incomplete sentence by using ADVERBIAL PARTICIPLE offers a writing feeling**)
+Adopting the notations in [], ("Participle as 方式adverbial")(**this incomplete sentence by using ADVERBIAL PARTICIPLE offers a writing feeling**)
 
 The time complexity of the algorithm can be [justified](http://www.iciba.com/justify) as follows.
 
@@ -239,12 +264,47 @@ The main intuition behind our method directly follows from ...
 
 **However, such a ...**
 
-This can be accomplished by BFS in O(k(n+m)) time, **k being the number of samples.** (another way to give a style of Adverbial  )
+This can be accomplished by BFS in O(k(n+m)) time, **k being the number of samples.** (another way to give a style of Adverbial)
 
-## long sentence
+The ... **studied so far in the literature**, including all works on ..., fall into the class of ...
+
+In this work, we depart from the existing literature and focus on ...
+
+other types of study on ... include ... 
+
+most efforts have been devoted to ...
+
+... has been well-studied in the context of ... 
+
+## long sentence (rule of using comma)
 
 Due to the ..., ... should be interpreted in a probabilistic way, thus naturally leading to ...
 
 Although ..., the focus nowadays, due to the large size of the networks, has mainly been on approximate solutions.
 
-However, such a pre-computation would lead to an increase of the index storage space and, more importantly, the index building time, which would become O(nm), thus unaffordable for large graphs.
+**However, such a pre-computation would lead to an increase of the index storage space and, more importantly, the index building time, which would become O(nm), thus unaffordable for large graphs.**
+(the last clause is "adjective phrase as accompanying adverbial", e.g. For a moment she just stood there, unable to believe what had just happened. e.g. Crusoe stared at the footprint, full of fear.(= Crusoe, who was full of fear, stared at the footprint.)) 
+
+
+
+
+
+**We examine the case where an optimal strategy can be computed efficiently, specifically, the case of ...** 
+
+### the advanced skills of using comma to form a long sentence (a crucial rule of comma)
+[Use a comma to set off parenthetical elements](http://grammar.ccc.commnet.edu/grammar/commas.htm)
+- The Founders Bridge, *which spans the Connecticut River*, is falling down. 
+- Calhoun's ambition, *to become a goalie in professional soccer*, is within his reach. (Appositive)
+- Eleanor, *his wife of thirty years*, suddenly decided to open her own business. (Appositive) 
+- He is interested in sports, *especially ball games*. (Appositive)
+- 
+
+
+
+
+
+
+
+
+
+
