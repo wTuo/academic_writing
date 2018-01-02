@@ -27,7 +27,7 @@ through/by
 
 To this aim, ... 
 
-
+However **(place "however", "consequently" after the subjective: The corrected version, consequently, is simply a guess at the writer's intention. )**
 
 ## amazing adverb
 
@@ -122,6 +122,12 @@ concern (It concerns crucial issues)
 
 
 **rise** (Uncertainty may arise due to ...) 
+
+**recast**
+
+perform (standard com. perform action)
+
+
 ## noun
 
 heuristics 
@@ -164,16 +170,15 @@ formulate ... to ...
 
 label ... as ...
 
-- denote ... as/by $x$ (... is denoted as/by $x$)
+- we denote ... as/by $x$ (... is denoted as/by $x$)
 - ,where $x$ denotes ... 
-- ...(,) denoted by ...,
-- Denote by $s\cdot e$ the state evolved from s by setting s_e as 1. (still remain unclear for the strange structure 祈使句可以省略主语?)
+- ..., denoted by ...,
+- **Denote by $s\cdot e$ the state evolved from s by setting s_e as 1.** (still remain unclear for the strange structure, **[but is very common in math papers](https://ell.stackexchange.com/questions/96804/is-it-correct-to-use-an-expression-we-denote-something-by-x)**)("Denote by $S$ the subset of N consisting of numbers that leave the remainder 1 when divided by 4.", "We denote by n an arbitrary integer.", "By C we will always denote a circle.")
 - represented as $x$ 
 - use $x$ to represent ...
-
+- Let $x$ be/denote ...
 Set ... as 0/ Set $A=B$
 
-Let $x$ be ...
 
 assign ... ... (without prep.)/ ... is assigned ...
 
@@ -289,19 +294,17 @@ Although ..., the focus nowadays, due to the large size of the networks, has mai
 
 
 
-**We examine the case where an optimal strategy can be computed efficiently, specifically, the case of ...** 
-
-### the advanced skills of using comma to form a long sentence (a crucial rule of comma)
+**We examine the case where an optimal strategy can be computed efficiently, specifically, the case of ...** (Appositive)(e.g.  It is not a working verb, a verb that can run a sentence by itself.)
+(excellent example for the moment when a objective with multiple modifications **2 modifications**  *Use appositive to give an additional information instead of a attribute clause.*) 
+### the advanced skill of using comma to form a long sentence (a crucial rule of comma)
 [Use a comma to set off parenthetical elements](http://grammar.ccc.commnet.edu/grammar/commas.htm)
 - The Founders Bridge, *which spans the Connecticut River*, is falling down. 
 - Calhoun's ambition, *to become a goalie in professional soccer*, is within his reach. (Appositive)
 - Eleanor, *his wife of thirty years*, suddenly decided to open her own business. (Appositive) 
 - He is interested in sports, *especially ball games*. (Appositive)
-- 
+- **He saw a woman, accompanied by two children, walking slowly down the road.**  **2 modifications** (They designed an algorithm, based on MDP, having prohibitive time complexity.)(We introduce the edge probability, denoted by $p$, describing the uncertainty of the status of an edge.) **please familiar with the mean that Past Participle 作后置定语**
 
-
-
-
+Please pay attention to the sentences marked "2 modifications", which can offer methods to construct sentence when a objective with multiple modifications. 
 
 
 
