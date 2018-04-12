@@ -107,6 +107,9 @@ exhaustively
 
 extensively 
 
+nicely
+
+
 ## verb
 
 
@@ -117,7 +120,7 @@ extensively
 
 capture ( ,which fails to capture ...) ( We propose a simple model which captures the two key characteristics observed in real large scale networks)
 
-depict (For instance, in the uncertain graph G depicted in Figure 1)
+**depict** (For instance, in the uncertain graph G depicted in Figure 1)
 
 bridge A with B
 
@@ -157,7 +160,7 @@ elaborate
 
 **designated as**
 
-**imply**/indicate 
+**imply**/indicate  (dashed arcs indicate the ... relationships.)
 
 justify (may be a substitution for explain, present, demonstrate, prove)
 
@@ -210,7 +213,9 @@ typically
 slightly
 
 ## noun
-precursor
+compactness 
+
+precrsor
 
 heuristics 
 
@@ -314,9 +319,23 @@ celebrated (... is the most celebrated model.)
 
 aforementioned
 
-entail
+entail(substitutions for involve, but with a more strong feeling )
+
+universal
+
 
 # sentence paradigm
+
+We do not restrict the joint distribution to any specific format
+
+An ... version of was proposed by ..., with the focus to ...
+
+The general problem is **intuitively** defined as follows. A more formal definition is provided later.
+
+In this section, we briefly review ...
+
+(or simply, ...)
+
 One notable exception is ....(One notable exception to this pattern emerged in 2006.)
 
 However, in all these works there is no ..
@@ -436,7 +455,8 @@ have a similar physical meaning
 
 we omit here for concision.
 
-For convenience/concision of illustration/notations,
+For convenience/concision of illustration/notations/discussion,
+
 
 The reasons of this phenomenon are three folded:
 
@@ -525,7 +545,15 @@ we **deviate from natural pattern** mining approaches which focus on bottom-up s
 
 ## long sentence (rule of using comma)
 
- The second concept is almost the same but the mapping function is **slightly** different.
+
+However, in some extreme cases, the number of paths or cuts **can be** exponentially large, **making** the worst case approximation ratio **still turn out to** be $O(|E|)$.
+
+Let $x$ be a column vector **with** all its elements zero, except for the entry that corresponds to node q; set this entry to 1. 
+
+$w(i,j)$ is the weight of edge connecting i and j. 
+
+
+The second concept is almost the same but the mapping function is **slightly** different.
 
 Due to the ..., ... should be interpreted in a probabilistic way, thus naturally leading to ...
 
