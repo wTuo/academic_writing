@@ -1,4 +1,6 @@
 ## amazing transition 
+Unlike exsiting/traditional 
+
 apart from 
 
 As ...
@@ -35,7 +37,7 @@ To achieve this aim,
 
 However **(place "however", "consequently" after the subjective: The corrected version, consequently, is simply a guess at the writer's intention. )**
 
-Unlike ..., ... (substitution for "Different from ..., ...", [but is still better for natives](http://www.seriousscholar.com/different-from-versus-unlike/))
+Unlike ..., ... (alternative for "Different from ..., ...", [but is still better for natives](http://www.seriousscholar.com/different-from-versus-unlike/))
 
 With the abobe lemmas in hand, we now ready to prove
 
@@ -43,13 +45,14 @@ We now come to analyze ...
 
 [A long sentence]. By doing so, ...
 
-By convention (By convention, Java type names usually start with an uppercase letter)
+By convention (By convention, Java type names usually start with an uppercase letter**
 
 Despite the fact that ... 
 
 As an example, consider ...
 
 ## amazing adverb
+**almost**
 
 There are two common types of how an adverb is inserted into a long sentence.
 1. ..., interestingly, .... | ..., more importantly, ... 
@@ -65,7 +68,7 @@ intuitively
 
 directly
 
-formally
+formally/informally
 **
 additionally 
 
@@ -162,15 +165,15 @@ elaborate
 
 **imply**/indicate  (dashed arcs indicate the ... relationships.)
 
-justify (may be a substitution for explain, present, demonstrate, prove)
+justify (may be a alternative for explain, present, demonstrate, prove)
 
 **demonstrate** (when to use: a slighter feeling than prove , e.g. demonstrate the hardness of the problem)
 
-**examine** (substitution for investigate, look into) 
+**examine** (alternative for investigate, look into) 
 
 involve
 
-**employ (substitution for adopt)**(e.g. we employ three terms)  
+**employ (alternative for adopt)**(e.g. we employ three terms)  
 
 exploit/is exploited to ... (a stronger feeling than adopt,employ)
 
@@ -205,7 +208,7 @@ perform (standard com. perform action)
 
 
 vary in ... from to (Vehicle models vary in complexity from velocity-controlled linear models to realistic car-like
-models )
+models 
 
 typically
 
@@ -214,6 +217,8 @@ slightly
 
 ## noun
 compactness 
+
+**novelty**
 
 precrsor
 
@@ -279,33 +284,41 @@ label ... as ... (...labeled as ...)
 - [we denote ... as/by $x$ | we denote $x$ as ... | Denote $x$ as ...](https://ludwig.guru/s/denote+*+as)  (**Interestingly, According to the searching results in Ludwig, it seems that both usage is correct.** But it still remain unclear that whether "denote by" is correct in both case)
 - ... is denoted as/by $x$
 - **Denote $x$ as ...** (Denote Z as the length- m vector of measurements.)(Denote ∅ as species we are not interested in.)
-- ,where $x$ denotes ... 
+- Define $V$ to be ... 
+- ,**where $x$ denotes ...** 
 - ..., denoted by ...,
 - **Denote by $s\cdot e$ the state evolved from s by setting s_e as 1.** (still remain unclear for the strange structure, **[but is very common in math papers](https://ell.stackexchange.com/questions/96804/is-it-correct-to-use-an-expression-we-denote-something-by-x)**)("Denote by $S$ the subset of N consisting of numbers that leave the remainder 1 when divided by 4.", "We denote by n an arbitrary integer.", "By C we will always denote a circle.")
 - represented as $x$ 
 - use $x$ to represent ...
 - **Let $x$ be**/denote ...
-Set ... as 0/ Set $A=B$
+- Set ... as 0/ Set $A=B$
+- Given any simple bisubmodular function f, define a single-argument set function g for :
 
+**We denote $x \leq y$ if $x_i \leq y_i$ for all $i \in [d]$.**(A Easily overlooked usage of denote, buf powful)
 
-assign ... ... (without prep.)/ ... is assigned ...
+**We say ... if ...**
+
+assign ... ... (without prep.***/ ... is assigned ...
 
 for $s$, we define it to be a non-terminating state if ...
 
-Let/we define ..., denoted by ..., to be ... .
+**Let/we define ..., denoted by ..., to be ... .**
 
 is given by
-
+is defined as
 is subject to 
 
 is commonly used to ... (the probabilistic graph model is commonly used to ...)
 
-**in the context of ... (substitution for from a perspective of ...)**
+**in the context of ... (alternative for from a perspective of ...)**
 
 **shed light on** (为…提供启发,线索)(The above limitations **motivate us** to shed light on de-anonymization problem by jointly incorporating analytical, algorithmic and experimental aspects under the common framework **noted earlier**.)
 
 
 # common adjective
+subtle (微妙的)
+**key** (the key difference, the key idea)
+computationally intractable
 
 **inherent** (refer to a feeling that something can not be cast off)
 
@@ -319,18 +332,276 @@ celebrated (... is the most celebrated model.)
 
 aforementioned
 
-entail(substitutions for involve, but with a more strong feeling )
+entail(alternatives for involve, but with a more strong feeling )
 
 universal
 
-
+rough
 # sentence paradigm
+This just means that closer points **are expected to** behave more similarly than points which are further away from each other.("should be")
+
+Standard results from linear algebra **give**:
+
+several comments are in order. First, ...
+
+See the discussion in Section IV of [].
+
+The client-server architecture in ALSence allows a MCS server ... **in an online manner***.
+
+**For clarity, we limit this work to the consideration of** supervised tasks.
+
+In Section II, related work in MCS and active learning **is discussed**/presented/provided . 
+
+**Details are provided of the algorithms for the local and the global learners, respectively in Section V**.(平衡句子，倒装**
+
+We demonstrate the effectiveness of ALSense through two applications that can benefit from MCS, namely, WiF ifingerprint-based indoor localization and IMU-based human activity recognition. 
+
+Through both rigid theoretical analysis and extensive simulations, we demonstrate that the proposed mechanism achieves truthfulness, individual rationality and high computation efficiency.
+
+**For evaluation, two real-world datasets are used.**
+
+In this section, we disscuss relevant work in MCS and give an overview of active learning.
+
+The experiments ob both simulated and real data demonstrate the superior of our method.
+
+we assume that the signal term is also a random variable which **follows** a particular distribution.
+
+This paper provides insights about when versioning is an optimal strategy for information goods. 
+ 
+ pose challenges on our problem
+
+To **harness** the Q-value Approach
+
+**Doing so*** avoids iterating over the entire action space, yielding enormous computational savings
+
+using such/constructing such …    (现在分词做主语 are not recommended in academic written according Luo's rule, but such usage is common.)
+
+A detailed account of the state of the art on the subject can be found in [27], where the authors also investigate the problem of 
+
+A state of the art review on epidemic models is available in .
+
+
+Meanwhile, a recent mean filed (MF) study [11] on rather realistic quenched networks **reports that** (A paradigm for representing  results in the literature. )
+
+meanwhile, the rate is set to be a constant of r, **as used in many existing models.**
+
+
+This subsection explores the inherent properties of $$ to obtain more insights on the effective quarantine strategy design. We start with the following definition.
+
+General-purpose techniques, such as planners for partially observable Markov decision problems, or POMDPs (for example, Smallwood and Sondik [1973], Pineau, Gordon and Thrun [2006]), **typically** do not **scale to** large problems. 
+
+**build on** Since our approach build on these techniques， we review them in more detail in next section.
+
+we represent the states of all random variables in R by a function, **which we refer to as** full realization.
+
+Crowdsensing, sometimes/also **referred to as** mobile crowdsensing, 
+
+related works are summarized in Section V.
+
+**Without** trajectory prediction,  …. (如果没有，在没有…的情况下)
+
+Prior to our work,
+
+computationally intractable 
+
+few ormulate the problem into a MDP /model as 
+
+can be found
+
+utilize
+
+Such problems can often **be reduced to** maximizing a submodular set function 
+
+**subject to** various **constraints**.
+
+
+**bring together the concepts of**/ jointly consider
+
+We illustrate our notation on a simple example.
+
+We leave this for future work.
+
+Our approach, however, can handle a large class of realistic criteria **beyond those defined in BWSN**.
+
+We illustrate the use of this approach using examples **drawn from** tracking applications.
+
+we **extend recent results on** truthful budget feasible mechanisms for submodular functions  to the adaptive **setting**.
+
+These situations still **fall within** classical mechanism design theory, where the set of possible outcomes is a priori fixed and publicly known. 
+
+under/subject to cardinality constraints
+
+To simplify notation, 
+
+However, it is extremely difficult in simultaneously achieving both … and …
+
+we initialize the examination of our model with a simple purchasing behavior for data consumers, and leave more complex models to future works.
+
+… , **in expectation**. (Therefore, there are  $N_k$ data consumers, who are interested in the kth version, in expectation. **
+
+
+be drawn from  a distribution
+
+
+**dose not work in the context of** 
+
+we argue that this assumption is fairly nature.
+
+Our results can be extended to more flexible formats, e.g.,
+
+**After their initial work**, numerous studies further investigated algorithms for 
+
+At an extreme,
+
+He collects data from the owners and sells it **in the form of**  queries.
+
+A reverse auction is similar to a unique bid auction as the basic principle **remains the same**;
+
+Before presenting …, we show a  useful lemma.
+
+We first briefly review related  concepts used in this section from game theory.
+
+rationale
+
+In much of the 
+in the context of
+ on auctions (see [11], for example), only the special case of pure preference uncertainty is considered.
+
+
+In this paper, we shall consider a more general class of problems, **allowing for** taking  into account (涉及到，考虑到)certain forms of quality uncertain as well.
+
+**is reached**
+
+**held by** (n bidders' estimations -> the estimations held by n bidders)
+
+
+achieve this by …
+
+be thought of as 
+
+desirable (合意的)
+
+in the context of / in terms of
+
+The latter are collectively denoted as c−I
+
+**Once** the mechanism is announced to users, a Bayesian game is played.
+
+ On the contrary, we focus on a more **realistic scenario** where users arrive one by one online in a random order
+
+The proof is represented in the extended version of the paper. We only sketch it here./ We leave the proof to the extended version of the paper.
+
+We first review existing mechanisms that **fall short of either** privacy-preservation, adaptivity or truthfulness. 
+
+a major difficulty arises from the fact that …
+
+We formulate the problem above from the point of view of the service provider that aims at minimizing the cost of compensating participants, **while** delivering a given quality of experience to service requesters; **we cast the problem in the context of** optimal reverse auction.
+
+Somewhat conceptually closer to our work is the subject of cost sharing, in which
+
+
+In the marginal contributionper-cost sorting, the i + 1 agent is the agent j **for which** $Vj|Si /cj$ is maximized over all agents N. ('such that' is not proper here. To use  'such that' properly, the sentance can be written as 'It seek the agent j such that … is maximiazed'. )
+
+
+The intuition behind the payments characterization can be described as follows.
+
+Consider an (unrealistic) offline mechanism with **complete access to** the pool of workers' true costs. 
+
+Continuing Example 3, suppose that ..
+
+For now, we do not **impose any restrictions on** the type of perturbation used in answering the query. (Recall We restrict … to …)
+
+should not be able to 
+
+Our definition of a query pricing function **incorporates** an extension allowing for conditional pricing in which the price of query set Q can depend on the queries for which a consumer has already paid.
+
+make them **fit** with (adapt to) 
+
+While several heuristics have been proposed for batch-mode active learning, little is known about their theoretical performance.
+
+To ensure **tractability**,  we **restrict the explicit prices to** be 
+
+We **give algorithms** with polynomial time.
+
+We restrict our attention to the class of
+
+Successive 相继的 successive command, successive versions. (adjancent  is used to spacial location)( **neighboring** )
+
+Analogously
+
+Note that two areas in the center of the lab were not instrumented. These areas have higher posterior variance, **as expected** (正如预期所料)
+
+In the machine learning **community/literature** （A better word than filed）
+
+In this section, we formally define the pricing framework and **introduce the notation used throughout the paper**.
+
+We summarize below our results in more detail.
+
+**Equipped with** this characterization, we present several examples of arbitrage-free functions, including the weighted coverage and the weighted set cover functions.
+
+We write $$ **instead of** $$.
+
+$$... Long Eqaution$$
+**where,** to simplify notation, we write A ∪y to denote the set A ∪{y}, and use A¯**to mean** V \(A ∪y).
+
+The … is beyond the scope of this paper. Sevral previous works shed light on plossible solutions for this problem.
+
+The circle on the left (red and violet) is the individual entropy H(X), **with the red being** the conditional entropy H(X|Y)
+
+Conduct techniques
+
+we can predict the value at any point y ∈ V **conditioned on** these measurements
+
+Intuitively, we want to place sensors which are most informative **with respect to** the entire design space. (substitution for in terms of)
+
+Leverage (利用)
+
+We first introduce basic concepts and notation.
+
+We also show how the approach **leads to deeper insights** in both applications, answering multicriteriatrade-off, cost-sensitivity and generalization questions.
+
+We introduce several models to **capture the above scenarios**,
+
+We call this problem the budget allocation problem **over** bipartite influence model.
+
+Algorithm 1 can be accelerate using the technique given in [2].
+
+One of the state-of-the-art RIS-based algorithms is IMM
+
+We do not attempt to give a complete survey here and just highlight the most **relevant** results.
+
+In their **follow-up work**, Caselton et al. (1992) and Zidek et al. (2000), argue against the use of mutual information
+**in a setting where*** the entropy H(XA) in the observed locations constitutes a significant part of the
+total uncertainty H(XV ). (alternatives for in the case) 
+
+Furthermore, we **show empirically**, that even in the sensor selection case, mutual information outperforms entropy on
+several practical placement problems.
+
+The matrix W is represented by a row-normalized matrix and **defined formally** as follow:
+
+Unfortunately, this entropy criterion suffers from the problem
+
+We show that in this case, α is bounded above by 3
+
+We only **present** a proof sketch here and leave the details to Appendix.
+
+The reader is referred to Appendix A for details./We refer readers to Appendix A for details.
+
+Proofs of all results **are given/provided/presented in** Appendix A./ The formal proof of Lemma 1 is given in the appendix./The formal proof is presented in Appendix A. 
+
+We leave the formal proofs to the Appendix for completeness.
+
+(**See** Appendix)/(see formal proof in Appendix F)
+
+have been well-studied **with very rich literatures**.
+
+The **novelty** of this paper **lies** in the quarantine strategy with minimal isolations. Our work **casts some new light on** real-world quarantines./Our interest lies in
 
 We do not restrict the joint distribution to any specific format
 
 An ... version of was proposed by ..., with the focus to ...
 
-The general problem is **intuitively** defined as follows. A more formal definition is provided later.
+The general problem is **intuitively(直观地，直觉上地)** defined as follows. A more formal definition is provided later.
 
 In this section, we briefly review ...
 
@@ -412,7 +683,7 @@ construct the function by ...
 
 **We proceed by** (we proceed by converting our problem to an MDP)
 
-**... render it +adj.(substitution for make)**  (the prohibitive time complexity renders it unsuitable for ... )
+**... render it +adj.(alternative for make)**  (the prohibitive time complexity renders it unsuitable for ... )
 
 
 all ..have been modeled without taking into account ... In this paper we overcome this limitation and introduce ...
@@ -441,7 +712,7 @@ most efforts have been devoted to ...
 
 Then, the following questions arise naturally: 
 
-No .... occurs/exists in .... (substitution for "There is no ... in ")
+No .... occurs/exists in .... (alternative for "There is no ... in ")
 
 Different from prior art that adopt
 
@@ -457,6 +728,7 @@ we omit here for concision.
 
 For convenience/concision of illustration/notations/discussion,
 
+may not **lead to good performance**
 
 The reasons of this phenomenon are three folded:
 
@@ -508,8 +780,10 @@ The former is simpler to analyze, and indeed, despite its shortcomings with resp
 
 Given ..., find ... such that ... is minimized.
 
+A celebrated result by ... states that ... 
 
-
+instead of quantifying the cost of a set $E$ by the number of elements, we can also consider the case where  each item has a cost.
+..., as has been shown in ...
 
 Our study is an attempt to understand how social relations may impact on network capacity from a theoretical perspective, and provides fundamental insight on the design and analysis of real wireless networks.
 
